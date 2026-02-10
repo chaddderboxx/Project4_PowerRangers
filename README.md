@@ -1,2 +1,1 @@
-# PHPDatabaseProject
-CIS2454 Fall 2025 PHPDatabaseProject
+This is a project carried over from class.
