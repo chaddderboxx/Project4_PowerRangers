@@ -1,1 +1,0 @@
-This is a project carried over from class.
